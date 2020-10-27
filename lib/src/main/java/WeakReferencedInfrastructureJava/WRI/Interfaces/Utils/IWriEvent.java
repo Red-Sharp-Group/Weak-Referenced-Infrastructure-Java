@@ -1,4 +1,4 @@
-package RedSharp.WRI.Interfaces.Utils;
+package WeakReferencedInfrastructureJava.WRI.Interfaces.Utils;
 
 import java.util.function.Consumer;
 

@@ -1,6 +1,6 @@
-package RedSharp.WRI.Models;
+package WeakReferencedInfrastructureJava.WRI.Models;
 
-import RedSharp.WRI.Interfaces.Models.IEventArguments;
+import WeakReferencedInfrastructureJava.WRI.Interfaces.Models.IEventArguments;
 
 public class EventArguments implements IEventArguments {
 
